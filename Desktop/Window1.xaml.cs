@@ -10,29 +10,28 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace Desktop
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Window1.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Window1 : Window
     {
-        public MainWindow()
+        public Window1()
         {
             InitializeComponent();
         }
         private void SignUp(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Некуда заходить(");
+            MessageBox.Show("Создана новая учётная запись");
         }
 
-        private void registration(object sender, RoutedEventArgs e)
+        private void Back(object sender, RoutedEventArgs e)
         {
-            Window1 reg = new Window1();
-            reg.Show();
+            MainWindow main = new MainWindow();
+            main.Show();
             Close();
         }
     }

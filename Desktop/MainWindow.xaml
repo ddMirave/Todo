@@ -5,8 +5,36 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Desktop"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Log in" Height="600" Width="800">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <WrapPanel Orientation="Vertical"  Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Content="Добро пожаловать!"   FontSize="32"  Margin="0 0 0 60"></Label>
+            <Label Content="Логин"   FontSize="20"  Margin="0 0 0 10"></Label>
+            <TextBox Height="40" Margin="4 0 0 10" Padding="0 10 0 0" FontSize="16" Foreground="#C6C6C6" BorderThickness="0 0 0 1">Введите логин</TextBox>
+            <Label Content="Пароль"   FontSize="20"  Margin="0 0 0 10"></Label>
+            <TextBox Height="40" Margin="4,0,0,10" Padding="0 10 0 0" FontSize="16" Foreground="#C6C6C6" BorderThickness="0 0 0 1">Введите пароль</TextBox>
+            <Label x:Name="Vosstanovlenie" Content="Восстановить пароль"  HorizontalAlignment="Right"  FontSize="18"  Margin="0 0 0 10" ></Label>
+            <Button Content="Войти" Width="327" Height="48" Margin="0 0 0 10" Background="#F96060" FontSize="18" Foreground="White" Click="SignUp">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="15 15 5 5"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Content="Регистрация"  Width="327" Height="48" Background="#F96060" FontSize="18" Foreground="White" Click="registration">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="5 5 15 15"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </WrapPanel>
+        <WrapPanel Orientation="Vertical"  Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0 60 0 0">
+            <Image Height="149" Source="/images/logo.png" Stretch="Fill" Width="149"/>
+        </WrapPanel>
     </Grid>
 </Window>
