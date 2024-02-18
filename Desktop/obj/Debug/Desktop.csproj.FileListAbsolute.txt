@@ -1,0 +1,46 @@
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\bin\Debug\Desktop.exe.config
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\bin\Debug\Desktop.exe
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\bin\Debug\Desktop.pdb
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\Desktop.csproj.AssemblyReference.cache
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\Log In.g.cs
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\MainWindow.g.cs
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\App.g.cs
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\Desktop_MarkupCompile.cache
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\Desktop_MarkupCompile.lref
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\Log In.baml
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\MainWindow.baml
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\Desktop.g.resources
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\Desktop.Properties.Resources.resources
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\Desktop.exe
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\Desktop.pdb
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\Registration.g.cs
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\Registration.baml
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\MainEmpty.g.cs
+C:\Users\alesh\OneDrive\Рабочий стол\C#\Todo\Desktop\obj\Debug\MainEmpty.baml
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\Desktop.csprojAssemblyReference.cache
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\Log In.g.cs
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\MainEmpty.g.cs
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\Registration.g.cs
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\App.g.cs
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\Desktop_MarkupCompile.cache
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\Desktop_MarkupCompile.lref
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\Desktop.exe
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\Desktop.pdb
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\bin\Debug\Desktop.exe.config
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\bin\Debug\Desktop.exe
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\bin\Debug\Desktop.pdb
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\bin\Debug\Todo.Entities.dll
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\bin\Debug\Todo.Entities.pdb
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\Log In.baml
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\MainEmpty.baml
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\MainWindow.baml
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\Registration.baml
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\Desktop.g.resources
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\Desktop.Properties.Resources.resources
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Downloads\WPF-3Lab\Desktop\obj\Debug\Desktop.csproj.CopyComplete
